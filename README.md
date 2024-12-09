@@ -18,7 +18,7 @@ Currently, I’m working on advancing **accurate MRI brain segmentation** at Bet
 ## 🛠 Tech Stack:
 - **Languages**: Python, Java, C++, C, TypeScript, JavaScript  
 - **Libraries**: Numpy, Pandas, PyTorch, Scikit-learn, Matplotlib  
-- **Tools**: AWS, Jupyter, Git, React, Docker  
+- **Tools**: AWS, Jupyter, Git, Agile  
 
 ## 📬 Contact:
 Feel free to reach out to me at [lzhu2444@gmail.com](mailto:lzhu2444@gmail.com) or connect with me via [LinkedIn](https://linkedin.com/in/larissazhu).
